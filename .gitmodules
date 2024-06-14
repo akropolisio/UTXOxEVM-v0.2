@@ -1,0 +1,45 @@
+[submodule "rust-kaon"]
+	path = rust-kaon
+	url = https://github.com/akropolisio/rust-kaon
+[submodule "rust-kaon-rpc"]
+	path = rust-kaon-rpc
+	url = https://github.com/akropolisio/rust-kaon-rpc
+[submodule "EthRPCGate"]
+	path = EthRPCGate
+	url = https://github.com/akropolisio/EthRPCGate
+[submodule "ethereumjs-monorepo"]
+	path = ethereumjs-monorepo
+	url = https://github.com/akropolisio/ethereumjs-monorepo
+[submodule "ethers.js"]
+	path = ethers.js
+	url = https://github.com/akropolisio/ethers.js
+[submodule "portis-web-sdk"]
+	path = portis-web-sdk
+	url = https://github.com/akropolisio/portis-web-sdk
+[submodule "uniswap-sdks"]
+	path = uniswap-sdks
+	url = https://github.com/akropolisio/uniswap-sdks
+[submodule "v2-sdk"]
+	path = v2-sdk
+	url = https://github.com/akropolisio/v2-sdk
+[submodule "web3-react"]
+	path = web3-react
+	url = https://github.com/akropolisio/web3-react
+[submodule "v2-periphery"]
+	path = v2-periphery
+	url = https://github.com/akropolisio/v2-periphery
+[submodule "chainhook"]
+	path = chainhook
+	url = https://github.com/akropolisio/chainhook
+[submodule "ordhook"]
+	path = ordhook
+	url = https://github.com/akropolisio/ordhook
+[submodule "ordinals-api"]
+	path = ordinals-api
+	url = https://github.com/akropolisio/ordinals-api
+[submodule "blockscout-backend"]
+	path = blockscout-backend
+	url = https://github.com/akropolisio/blockscout-backend
+[submodule "blockscout-frontend"]
+	path = blockscout-frontend
+	url = https://github.com/akropolisio/blockscout-frontend
