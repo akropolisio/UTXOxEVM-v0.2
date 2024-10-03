@@ -2,6 +2,8 @@
 
 Welcome to the UTXOxEVM-v0.2 repository-proposal for the UTXO Network. This repository serves as a central hub for transgression of integrating the UTXO blockchain model with Ethereum Virtual Machine (EVM) capabilities and Akropolis current environment. It houses a collection of submodules that are critical for the process.
 
+It's worth noting that Kaon's full codebase extends well beyond what is visible here. In total, Kaon encompasses over 1,000,000 lines of code, with approximately 17% of this being open-source and publicly accessible. This repository showcases key components of the project while maintaining the integrity and security of proprietary elements.
+
 ## Repository Structure
 
 The UTXOxEVM-v0.2 repository includes the following submodules, each with a specific function within the project's ecosystem:
